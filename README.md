@@ -62,4 +62,4 @@ I’m currently working on and gradually publishing real-world projects, includi
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/AminKaabasl
+- LinkedIn: [https://www.linkedin.com/in/AminKaabasl](https://www.linkedin.com/in/mohammad-amin-kaabasl-0354733a3/)
