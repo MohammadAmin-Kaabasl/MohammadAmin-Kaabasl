@@ -1,12 +1,3 @@
-React-focused Full-Stack Developer (MERN)
-Clean code, scalable apps, real-world projects
-
-
-
-
-
-
-
 # Hi, I'm Mohammad Amin 👋
 
 ⚛️ React-focused Full-Stack Developer (MERN)  
