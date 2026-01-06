@@ -1,16 +1,74 @@
-## Hi there 👋
+React-focused Full-Stack Developer (MERN)
+Clean code, scalable apps, real-world projects
 
-<!--
-**MohammadAmin-Kaabasl/MohammadAmin-Kaabasl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+# Hi, I'm Mohammad Amin 👋
+
+⚛️ React-focused Full-Stack Developer (MERN)  
+I build clean, scalable web applications and learn by shipping real-world projects.
+
+---
+
+## 🧑‍💻 About Me
+- Computer Engineering Mastery student
+- Passionate about modern web development and clean UI/UX
+- Strong focus on **React**, **Tailwind CSS**, and **JavaScript**
+- Comfortable building and consuming **REST APIs**
+- Interested in real-world products, not just tutorials
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5, CSS3
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+
+### Tools & Practices
+- Git & GitHub
+- RESTful APIs
+- Linux
+- VS Code
+- Clean code & readable architecture
+
+---
+
+## 🌍 Languages
+- English — Fluent (professional working proficiency)
+- Persian (Farsi) — Native
+- Arabic — Conversational
+
+---
+
+## 📌 Current Focus
+- Improving React architecture and component design
+- Building full-stack MERN applications
+- Writing maintainable, scalable, and readable code
+- Strengthening problem-solving and system thinking
+
+---
+
+## 📂 Projects
+I’m currently working on and gradually publishing real-world projects, including:
+- Full-stack MERN applications
+- React & Tailwind UI projects
+- Collaborative web applications
+
+(Projects and pinned repositories will be updated continuously.)
+
+---
+
+## 🔗 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/AminKaabasl
