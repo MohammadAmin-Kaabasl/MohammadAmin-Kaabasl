@@ -26,9 +26,9 @@ I build clean, scalable web applications and learn by shipping real-world projec
 ---
 
 ## 🌍 Languages
-- ![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
-- ![Persian](https://img.shields.io/badge/Persian-Native-green?style=for-the-badge&logo=googletranslate&logoColor=white)
-- ![Arabic](https://img.shields.io/badge/Arabic-Conversational-orange?style=for-the-badge&logo=googletranslate&logoColor=white)
+![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Persian](https://img.shields.io/badge/Persian-Native-green?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Arabic](https://img.shields.io/badge/Arabic-Conversational-orange?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ---
 
@@ -41,12 +41,15 @@ I build clean, scalable web applications and learn by shipping real-world projec
 ---
 
 ## 📂 Projects
-I’m currently working on and gradually publishing real-world projects, including:
-- Full-stack MERN applications
-- React & Tailwind UI projects
-- Collaborative web applications
 
-(Projects and pinned repositories will be updated continuously.)
+### 🏢 [Pasargad Company Website](https://pasargad-ta.com/)
+A modern responsive company website built with React and Tailwind CSS, focused on clean UI, performance, and component-based architecture.
+
+### 🗂 MERN Task Manager
+A full-stack task management application with role-based task tagging and smart task organization.
+
+### ⚓ Online Battleship Game
+A two-player online Battleship game built with React and a Django REST API backend, featuring ship placement and turn-based gameplay.
 
 ---
 
