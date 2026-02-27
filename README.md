@@ -48,8 +48,9 @@ A modern responsive company website built with **React** and **Tailwind CSS**, f
 ### 🗂 [MERN Task Manager](https://github.com/MohammadAmin-Kaabasl/task-manager-fullstack)
 A full-stack task management application with role-based task tagging and smart task organization.
 
-### ⚓ A two-player online Battleship game (private repo)
+### ⚓ [Two-player online Battleship game](#) (private repo)
 A two-player online Battleship game built with **React** and a **Django REST API** backend, featuring ship placement and turn-based gameplay.
+
 
 ---
 
